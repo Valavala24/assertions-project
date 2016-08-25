@@ -1,6 +1,6 @@
-#Java Basics Project
+Assertions-project
 
-*Simple Java Basic Concepts*
+* Assertions-project*
 
 **Java 7
 
